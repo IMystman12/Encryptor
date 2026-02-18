@@ -29,17 +29,6 @@
 | **⚡ Lightweight & Fast** | Built on .NET, runs quickly with minimal resource usage |
 | **📦 No Installation Needed** | Just run the executable and you're ready to go! |
 
-## 📸 Screenshots
-
-> *Tip: Add a screenshot of your console app here.*
-> *You can name your screenshot `screenshot.png` and place it in an `Images` folder, then uncomment the code below.*
-
-<!--
-<p align="center">
-  <img src="Images/screenshot.png" alt="App Screenshot" width="600">
-</p>
--->
-
 ## 🧰 Supported Algorithms
 
 ### 🔐 Encryptor Types (20+ algorithms)
@@ -94,6 +83,5 @@
    Get the latest executable from the [Releases](https://github.com/yourusername/your-repo/releases) page.
 
 2️⃣ **Run the App**  
-   Open Command Prompt or PowerShell and run:
-   ```bash
-   TextEncryptor.exe
+    1.Extract the zip(If there aren't skip this)
+    2.Double click the Encryptor.exe
