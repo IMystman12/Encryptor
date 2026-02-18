@@ -80,8 +80,8 @@
 ## 🚀 How to Use
 
 1️⃣ **Download the Program**  
-   Get the latest executable from the [Releases](https://github.com/yourusername/your-repo/releases) page.
+   Get the latest executable from the [Releases](https://github.com/IMystman12/Encryptor/releases/tag/Release) page.
 
 2️⃣ **Run the App**  
-    1.Extract the zip(If there aren't skip this)
+    1.Extract the zip(If there aren't skip this)<br>
     2.Double click the Encryptor.exe
